@@ -1,0 +1,804 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    " Child Attendance" : {
+
+    },
+    "..." : {
+
+    },
+    "**state**:hgfhfhfh hhfhfh\n **reson**:cfdfgdcfggfhfhfhfhgggfh\nhghfgfgfgfgfgh" : {
+
+    },
+    "%@" : {
+
+    },
+    "7:28 AM" : {
+
+    },
+    "7:30" : {
+
+    },
+    "7:30 AM" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "٧:٣٠ مساءً"
+          }
+        }
+      }
+    },
+    "8" : {
+
+    },
+    "8 h" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "٨ س"
+          }
+        }
+      }
+    },
+    "12:26" : {
+
+    },
+    "12:30" : {
+
+    },
+    "12:30 PM" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "١٢:٣٠ مساءً"
+          }
+        }
+      }
+    },
+    "12:31 PM" : {
+
+    },
+    "Abdullah" : {
+
+    },
+    "Abdullah Khalaf" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عبدالله خلف"
+          }
+        }
+      }
+    },
+    "Abdulrahman" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عبدالرحمن"
+          }
+        }
+      }
+    },
+    "About App" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حول التطبيق"
+          }
+        }
+      }
+    },
+    "Account" : {
+
+    },
+    "Add New requist" : {
+
+    },
+    "Add teacher" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اضف معلم"
+          }
+        }
+      }
+    },
+    "All Request" : {
+
+    },
+    "All Requestes" : {
+
+    },
+    "answer" : {
+
+    },
+    "answer." : {
+
+    },
+    "Appearnce" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مظهر"
+          }
+        }
+      }
+    },
+    "Are you sure want check in ? " : {
+
+    },
+    "Attendance" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التحضير"
+          }
+        }
+      }
+    },
+    "Attendance App" : {
+
+    },
+    "Change password" : {
+
+    },
+    "Chat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الدردشة"
+          }
+        }
+      }
+    },
+    "Chats" : {
+
+    },
+    "Check" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استدعاء"
+          }
+        }
+      }
+    },
+    "check in" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استدعاء"
+          }
+        }
+      }
+    },
+    "Check in" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحضير"
+          }
+        }
+      }
+    },
+    "Check in " : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استدعاء"
+          }
+        }
+      }
+    },
+    "check out" : {
+
+    },
+    "Check out" : {
+
+    },
+    "Check Out" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استدعاء"
+          }
+        }
+      }
+    },
+    "Child Attendance" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تحضير الطفل"
+          }
+        }
+      }
+    },
+    "Creating an attendance app for schools involves building a system that allows parents and teachers to manage and track student attendance." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتضمن إنشاء تطبيق الحضور للمدارس بناء نظام يسمح لأولياء الأمور والمعلمين بإدارة وتتبع حضور الطلاب."
+          }
+        }
+      }
+    },
+    "Dark Mode" : {
+
+    },
+    "Date of Birth" : {
+
+    },
+    "Date:" : {
+
+    },
+    "Delete account" : {
+
+    },
+    "Edit profile" : {
+
+    },
+    "Edit Profile" : {
+
+    },
+    "Email" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البريد الألكتروني"
+          }
+        }
+      }
+    },
+    "Email Address" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البريد الألكتروني"
+          }
+        }
+      }
+    },
+    "Email@Example.com" : {
+
+    },
+    "English" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "العربية"
+          }
+        }
+      }
+    },
+    "Enter the message" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "ادخل الرسالة"
+          }
+        }
+      }
+    },
+    "FAQs" : {
+
+    },
+    "Female" : {
+
+    },
+    "from:Ahmed@htmail.com" : {
+
+    },
+    "Full name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم الكامل"
+          }
+        }
+      }
+    },
+    "Gender" : {
+
+    },
+    "General" : {
+
+    },
+    "Hello," : {
+
+    },
+    "Hello, " : {
+
+    },
+    "Help & Support" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الدعم الفني"
+          }
+        }
+      }
+    },
+    "Help center" : {
+
+    },
+    "hours" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الساعات"
+          }
+        }
+      }
+    },
+    "How can I chick out to my children" : {
+
+    },
+    "How I can use application?" : {
+
+    },
+    "I have a problem with my account" : {
+
+    },
+    "ID" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رقم التعريف"
+          }
+        }
+      }
+    },
+    "ID number" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رقم التعريف"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اللغة"
+          }
+        }
+      }
+    },
+    "Leave" : {
+
+    },
+    "Let's get started" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لنبدأ"
+          }
+        }
+      }
+    },
+    "List" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "القائمة"
+          }
+        }
+      }
+    },
+    "Log out" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسجيل الخروج"
+          }
+        }
+      }
+    },
+    "Login to start the app." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسجيل الدخول للبدء"
+          }
+        }
+      }
+    },
+    "Major" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التخصص"
+          }
+        }
+      }
+    },
+    "Male" : {
+
+    },
+    "Name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الاسم"
+          }
+        }
+      }
+    },
+    "Name of tetcher" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اسم المعلم"
+          }
+        }
+      }
+    },
+    "Name of tetcher:" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اسم المعلم"
+          }
+        }
+      }
+    },
+    "New User? Register here" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "مستخدم جديد؟ سجل هنا"
+          }
+        }
+      }
+    },
+    "Next" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "التالي"
+          }
+        }
+      }
+    },
+    "No" : {
+
+    },
+    "Notifications" : {
+
+    },
+    "Now Attendance" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وقت التحضير"
+          }
+        }
+      }
+    },
+    "Or continue with" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "أو بإستخدام"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "الرقم السري"
+          }
+        }
+      }
+    },
+    "Phone number" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "رقم الهاتف"
+          }
+        }
+      }
+    },
+    "Present" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حاضر"
+          }
+        }
+      }
+    },
+    "Privacy policy & Analytics" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سياسة الخصوصية والتحليلات"
+          }
+        }
+      }
+    },
+    "Profile" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "الحساب"
+          }
+        }
+      }
+    },
+    "Rawad school" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مدرسة الرواد"
+          }
+        }
+      }
+    },
+    "Rayan Meshal" : {
+
+    },
+    "Read" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مقروء"
+          }
+        }
+      }
+    },
+    "request leaves" : {
+
+    },
+    "reson" : {
+
+    },
+    "Reson" : {
+
+    },
+    "Save" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "حفظ"
+          }
+        }
+      }
+    },
+    "School name" : {
+
+    },
+    "Search for a city" : {
+
+    },
+    "Search for a city " : {
+
+    },
+    "search.." : {
+
+    },
+    "Send" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ارسال"
+          }
+        }
+      }
+    },
+    "Settings" : {
+
+    },
+    "Sign in" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسجيل الدخول"
+          }
+        }
+      }
+    },
+    "Sign in as admin" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسجيل الدخول كمسؤل"
+          }
+        }
+      }
+    },
+    "Sign in as employee" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسجيل الدخول كموظف"
+          }
+        }
+      }
+    },
+    "Sign in as parent" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "تسجيل الدخول كوالد"
+          }
+        }
+      }
+    },
+    "Sign up" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التسجيل"
+          }
+        }
+      }
+    },
+    "Skip" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "تخطي"
+          }
+        }
+      }
+    },
+    "Sorry to hear that, you can contact us on our Email: \nattendanceApp@email.com" : {
+
+    },
+    "state" : {
+
+    },
+    "State" : {
+
+    },
+    "System settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "اعدادات النظام"
+          }
+        }
+      }
+    },
+    "Terms of service" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "شروط الأستخدام"
+          }
+        }
+      }
+    },
+    "The parent sends a notification to the teacher regarding their presence outside, and the notification with the parent's information and the student's details will appear for the teacher. The student safely exits the school." : {
+
+    },
+    "This scenario describes a system where a parent can use a mobile application or another means to notify a teacher that they are present outside the school. The teacher receives a notification containing information about the parent and details about the specific student" : {
+
+    },
+    "Time" : {
+
+    },
+    "Unread" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "غير مقروءة"
+          }
+        }
+      }
+    },
+    "what is Attendance App?" : {
+
+    },
+    "Yes" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "نعم"
+          }
+        }
+      }
+    },
+    "your children" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "طفلك"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
