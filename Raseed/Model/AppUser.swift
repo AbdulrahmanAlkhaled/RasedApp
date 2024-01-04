@@ -11,3 +11,9 @@ struct AppUser {
     let uid: String
     let email: String?
 }
+
+struct AdminAccess:  Codable {
+    var teacher_id: String
+    var name: String
+    var contact: String
+}

@@ -87,6 +87,12 @@
 		B4D223812B382721007876B8 /* Registration2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D223802B382721007876B8 /* Registration2View.swift */; };
 		B4D223862B382894007876B8 /* FilteringChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D223852B382894007876B8 /* FilteringChatView.swift */; };
 		B4D223882B3838AB007876B8 /* ChatRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D223872B3838AB007876B8 /* ChatRowView.swift */; };
+		B4D4B68B2B46F7C0002D9793 /* AdminView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D4B68A2B46F7C0002D9793 /* AdminView.swift */; };
+		B4D4B68F2B46F811002D9793 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D4B68E2B46F811002D9793 /* ProfileView.swift */; };
+		B4D4B6912B46F836002D9793 /* AddListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D4B6902B46F836002D9793 /* AddListView.swift */; };
+		B4D4B6952B46F86C002D9793 /* ManagerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D4B6942B46F86C002D9793 /* ManagerViewModel.swift */; };
+		B4D4B6972B46F8B0002D9793 /* SignIn3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D4B6962B46F8B0002D9793 /* SignIn3View.swift */; };
+		B4D4B6992B46F97F002D9793 /* Content3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D4B6982B46F97F002D9793 /* Content3View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -164,6 +170,12 @@
 		B4D223802B382721007876B8 /* Registration2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Registration2View.swift; sourceTree = "<group>"; };
 		B4D223852B382894007876B8 /* FilteringChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteringChatView.swift; sourceTree = "<group>"; };
 		B4D223872B3838AB007876B8 /* ChatRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatRowView.swift; sourceTree = "<group>"; };
+		B4D4B68A2B46F7C0002D9793 /* AdminView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdminView.swift; sourceTree = "<group>"; };
+		B4D4B68E2B46F811002D9793 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		B4D4B6902B46F836002D9793 /* AddListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddListView.swift; sourceTree = "<group>"; };
+		B4D4B6942B46F86C002D9793 /* ManagerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManagerViewModel.swift; sourceTree = "<group>"; };
+		B4D4B6962B46F8B0002D9793 /* SignIn3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignIn3View.swift; sourceTree = "<group>"; };
+		B4D4B6982B46F97F002D9793 /* Content3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Content3View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -230,6 +242,7 @@
 		B4044E632B35FE6F009C1258 /* Raseed */ = {
 			isa = PBXGroup;
 			children = (
+				B4D4B6872B46F749002D9793 /* Admin */,
 				568187072B42204900B8636B /* NewProfile */,
 				B426A52B2B3A06EB00E49B32 /* Component */,
 				B426A52A2B3A06E500E49B32 /* Parent */,
@@ -464,6 +477,19 @@
 			path = Chat;
 			sourceTree = "<group>";
 		};
+		B4D4B6872B46F749002D9793 /* Admin */ = {
+			isa = PBXGroup;
+			children = (
+				B4D4B68A2B46F7C0002D9793 /* AdminView.swift */,
+				B4D4B68E2B46F811002D9793 /* ProfileView.swift */,
+				B4D4B6902B46F836002D9793 /* AddListView.swift */,
+				B4D4B6942B46F86C002D9793 /* ManagerViewModel.swift */,
+				B4D4B6962B46F8B0002D9793 /* SignIn3View.swift */,
+				B4D4B6982B46F97F002D9793 /* Content3View.swift */,
+			);
+			path = Admin;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -553,6 +579,7 @@
 				B4D223752B381E34007876B8 /* EmployeeView.swift in Sources */,
 				B49630102B4119360091D49E /* AppUser.swift in Sources */,
 				B4BCA38F2B389995004A7989 /* ChatModel.swift in Sources */,
+				B4D4B6952B46F86C002D9793 /* ManagerViewModel.swift in Sources */,
 				B426A5612B3A0CC500E49B32 /* NotifcationViewModel.swift in Sources */,
 				B4CFE3C22B3733550021BAD4 /* IDFieldview.swift in Sources */,
 				B426A5712B3A0ECB00E49B32 /* HelpAndSupportView.swift in Sources */,
@@ -569,13 +596,16 @@
 				568187092B42206C00B8636B /* ProfileNEmploey.swift in Sources */,
 				B4044E7C2B361811009C1258 /* NameFieldView.swift in Sources */,
 				B426A5432B3A0A9300E49B32 /* AttendModelEmployee.swift in Sources */,
+				B4D4B68B2B46F7C0002D9793 /* AdminView.swift in Sources */,
 				B426A5562B3A0C2D00E49B32 /* CommentsView.swift in Sources */,
 				5659E0952B40BD4400E28C3F /* ProfileParentNew.swift in Sources */,
 				B426A5382B3A09E900E49B32 /* NotifcationEmpModel.swift in Sources */,
+				B4D4B6912B46F836002D9793 /* AddListView.swift in Sources */,
 				B4D223862B382894007876B8 /* FilteringChatView.swift in Sources */,
 				B426A54F2B3A0B7900E49B32 /* textfield.swift in Sources */,
 				B49630142B4119B00091D49E /* SignInViewModel.swift in Sources */,
 				564DC3452B3B4E88005F7368 /* ChildModel.swift in Sources */,
+				B4D4B6992B46F97F002D9793 /* Content3View.swift in Sources */,
 				B410B3CC2B41735C008F69B6 /* ChildernViewModel.swift in Sources */,
 				B4CFE3C42B37483A0021BAD4 /* ChatView2.swift in Sources */,
 				B426A53A2B3A0A0000E49B32 /* NotifcationEmpViewModel.swift in Sources */,
@@ -599,6 +629,7 @@
 				B410B3CE2B4173F1008F69B6 /* HomeParent.swift in Sources */,
 				B496300E2B41190F0091D49E /* CheckInOutModel.swift in Sources */,
 				B4044E652B35FE6F009C1258 /* RaseedApp.swift in Sources */,
+				B4D4B6972B46F8B0002D9793 /* SignIn3View.swift in Sources */,
 				B4044E802B3618AA009C1258 /* PhoneNumberFieldView.swift in Sources */,
 				5681870B2B42208200B8636B /* ProfileNParents.swift in Sources */,
 				B49630182B411B700091D49E /* ParentRootView.swift in Sources */,
@@ -607,6 +638,7 @@
 				B4BCA3932B38BAA7004A7989 /* ChatView.swift in Sources */,
 				B426A5412B3A0A7D00E49B32 /* HomeViewEmployee.swift in Sources */,
 				B426A5452B3A0AAF00E49B32 /* ProfileEmployee.swift in Sources */,
+				B4D4B68F2B46F811002D9793 /* ProfileView.swift in Sources */,
 				B4D223702B38199D007876B8 /* PasswordFieldView.swift in Sources */,
 				B4D2236E2B381959007876B8 /* EmailFieldView.swift in Sources */,
 				B4D2237A2B381F63007876B8 /* OptionsView.swift in Sources */,
