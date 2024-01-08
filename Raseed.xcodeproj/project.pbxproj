@@ -242,9 +242,8 @@
 		B4044E632B35FE6F009C1258 /* Raseed */ = {
 			isa = PBXGroup;
 			children = (
+				B4290B772B4B16E80097BBEF /* Design */,
 				B4D4B6872B46F749002D9793 /* Admin */,
-				568187072B42204900B8636B /* NewProfile */,
-				B426A52B2B3A06EB00E49B32 /* Component */,
 				B426A52A2B3A06E500E49B32 /* Parent */,
 				B426A5292B3A06CF00E49B32 /* Employee */,
 				B4044E762B35FEA3009C1258 /* Model */,
@@ -404,6 +403,15 @@
 				5659E0942B40BD4400E28C3F /* ProfileParentNew.swift */,
 			);
 			path = Profile;
+			sourceTree = "<group>";
+		};
+		B4290B772B4B16E80097BBEF /* Design */ = {
+			isa = PBXGroup;
+			children = (
+				568187072B42204900B8636B /* NewProfile */,
+				B426A52B2B3A06EB00E49B32 /* Component */,
+			);
+			path = Design;
 			sourceTree = "<group>";
 		};
 		B4D223672B3818CA007876B8 /* Auth */ = {

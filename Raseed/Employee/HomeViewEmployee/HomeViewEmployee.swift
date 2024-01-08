@@ -18,16 +18,16 @@ struct HomeViewEmployee: View {
                 LazyVStack{
                  
                     HStack {
-                       
-                        VStack(alignment: .leading) {
-                            Text("Hello,")
-                                .font(.subheadline)
-                                .foregroundStyle(.gray)
-                            Text("Rayan Meshal")
-                                .bold()
+                        ForEach(vm2.checkin.indices, id: \.self) {  i in
+                            VStack(alignment: .leading) {
+                                Text("Hello,")
+                                    .font(.subheadline)
+                                    .foregroundStyle(.gray)
+                                Text(vm2.checkin[i].teacher_id)
+                                    .bold()
+                            }
+                            Spacer()
                         }
-                        Spacer()
-                        
                     }
                     
                     VStack{

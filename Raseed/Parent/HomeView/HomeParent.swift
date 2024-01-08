@@ -15,28 +15,23 @@ import SwiftUI
 
 struct HomeParent: View {
     @StateObject var vm = ChildernViewModel()
+    @StateObject var vm2 = CheckInOutViewModel()
     @State var isPresented = false
     
     var body: some View {
-        // NavigationStack{
         ScrollView{
             LazyVStack{
                 HStack {
-                   // Image(systemName: "person.circle")
-                       // .resizable()
-                       // .scaledToFit()
-                        //.frame(width: 40, height: 40)
-                      //  .foregroundColor(.gray)
-                    
-                    VStack(alignment: .leading) {
-                        Text("Hello, ")
-                            .foregroundStyle(.gray)
-                        Text("Abdullah Khalaf").foregroundColor(.black)
-                            .bold()
+                    ForEach(vm2.checkout.indices, id: \.self) { i in
+                        VStack(alignment: .leading) {
+                            Text("Hello, ")
+                                .foregroundStyle(.gray)
+                            Text(vm2.checkout[i].parent_id).foregroundColor(.black)
+                                .bold()
+                        }
+                        Spacer()
+                        
                     }
-                    Spacer()
-                    
-                    // Image(systemName: "bell").resizable().scaledToFit().frame(width:30,height: 30)
                 }
                 .padding(.horizontal)
                 
@@ -46,7 +41,7 @@ struct HomeParent: View {
                 VStack {
                     HStack{
                         Text("Child Attendance").font(.title2).frame(maxWidth:.infinity,alignment:.leading).bold()
-                       // Image("loc").resizable().scaledToFit().frame(width:30,height: 30)
+                       
                         
                     }
                     
@@ -105,14 +100,14 @@ struct HomeParent: View {
                                                 VStack{
                                                     Image(systemName: "arrow.forward.to.line.square")
                                                         .resizable().scaledToFit().frame(width:20,height: 20).foregroundStyle(.col1)
-                                                    Text("7:30 AM").font(.callout)
+                                                    Text(vm.childerns[i].created_at).font(.callout)
                                                     Text("check in").font(.footnote).foregroundColor(.gray)
                                                 }
                                                 
                                                 VStack{
                                                     Image(systemName: "arrow.backward.to.line.square")
                                                         .resizable().scaledToFit().frame(width:20,height: 20).foregroundStyle(.col2)
-                                                    Text("12:30 PM").font(.callout)
+                                                    Text(vm.childerns[i].created_at).font(.callout)
                                                     Text("check out").font(.footnote).foregroundColor(.gray)
                                                 }
                                                 
